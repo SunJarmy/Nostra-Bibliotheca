@@ -1,0 +1,2 @@
+# Config file
+BOT_TOKEN = '6047979032:AAGoba0xxOFg5BxYyShPIcwZxZ_GEZeP1_c'
